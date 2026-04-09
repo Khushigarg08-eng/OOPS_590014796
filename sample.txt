@@ -1,0 +1,1 @@
+This text file is for the input and output stream for my oops lab. we will perform code using this text file.
